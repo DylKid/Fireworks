@@ -1,0 +1,11 @@
+tr{
+	border: 2px solid black;
+}
+
+th:nth-child(n+2),td:nth-child(n+2){
+	border-left: 1px solid black;
+}
+
+table{
+	border: 1px solid black;
+}
